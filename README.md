@@ -1,2 +1,2 @@
-# java2d
-The assignment of java 2D/3D project01
+# java 2D
+The assignment of java 2D/3D project01.
