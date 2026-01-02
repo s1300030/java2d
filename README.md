@@ -6,6 +6,9 @@ The assignment of java 2D/3D project01.
 
 % java Project01 vert/<model>.vert
 
+
+Press key 0: Show Original
+
 Press key 1: Visualize unit tangent vectors
 
 Press key 2: Visualize unit normal vectors
